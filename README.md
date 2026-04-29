@@ -50,3 +50,13 @@ Everything runs client-side. No account, no server, no data leaves the browser.
 
 - Mobile-responsive testing, SEO and branding pass.
 
+## Screenshots
+
+Homepage
+![Vertdrop Homepage](screenshots/vertdrop_1.png)
+
+Image selection
+![Vertdrop image selection](screenshots/vertdrop_2.png)
+
+Final image ready for download
+![Vertdrop image output example](screenshots/vertdrop_3.png)
